@@ -9946,3 +9946,14 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+  
+
+
+.form-group .error-text{
+  font-size: 13.5px;
+  color: #d93025;
+  text-align: left;
+  display: none;
+}
